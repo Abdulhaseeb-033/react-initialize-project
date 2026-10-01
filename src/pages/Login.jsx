@@ -1,4 +1,4 @@
-import { Mail, Lock, LogIn } from "lucide-react";
+import { Mail, Lock, } from "lucide-react";
 
 function Login() {
   return (

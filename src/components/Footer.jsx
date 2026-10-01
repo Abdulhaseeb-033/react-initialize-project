@@ -129,11 +129,11 @@ function Footer() {
           
           
           <div className="flex items-center gap-4 order-1 lg:order-2">
-            <a href="#" className="text-gray-500 hover:text-blue-500 transition-colors"><FaInstagram size={18} /></a>
-            <a href="#" className="text-gray-500 hover:text-blue-500 transition-colors"><FaFacebookF size={18} /></a>
-            <a href="#" className="text-gray-500 hover:text-blue-500 transition-colors"><FaTwitter size={18} /></a>
-            <a href="#" className="text-gray-500 hover:text-blue-500 transition-colors"><FaWhatsapp size={18} /></a>
-            <a href="#" className="text-gray-500 hover:text-blue-500 transition-colors"><FaYoutube size={18} /></a>
+            <a href="https://www.instagram.com/" className="text-gray-500 hover:text-blue-500 transition-colors"><FaInstagram size={18} /></a>
+            <a href="https://www.facebook.com/" className="text-gray-500 hover:text-blue-500 transition-colors"><FaFacebookF size={18} /></a>
+            <a href="https://www.twitter.com/" className="text-gray-500 hover:text-blue-500 transition-colors"><FaTwitter size={18} /></a>
+            <a href="https://www.whatsapp.com/" className="text-gray-500 hover:text-blue-500 transition-colors"><FaWhatsapp size={18} /></a>
+            <a href="https://www.youtube.com/" className="text-gray-500 hover:text-blue-500 transition-colors"><FaYoutube size={18} /></a>
           </div>
 
     

@@ -6,7 +6,7 @@ import PageNotFound from "./PageNotFound";
 function ProductDetail() {
   const { id } = useParams();
   const navigate = useNavigate();
-  const product = products.find((p) => p.id == id);
+  const product = products.find((p) => p.id === id);
 
   if (!product) return <PageNotFound />;
 
